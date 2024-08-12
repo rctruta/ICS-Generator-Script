@@ -33,10 +33,10 @@ def create_ics_file(start_date, start_time, duration, frequency, end_date, meet_
         current_event_date += frequency_delta
 
     # Write to .ics file
-    with open('bi_weekly_meetings.ics', 'wb') as f:
+    with open('meetings.ics', 'wb') as f:
         f.write(cal.to_ical())
 
-    print("ICS file created successfully as 'bi_weekly_meetings.ics'")
+    print("ICS file created successfully as 'meetings.ics'")
 
 if __name__ == "__main__":
     # Set up argument parser
