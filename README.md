@@ -1,6 +1,6 @@
 # ICS Generator Script
 
-This repository contains a Python script to generate `.ics` files for calendar events. Specifically, the script creates a series of bi-weekly meetings with a Google Meet link. It is designed to work seamlessly within GitHub Codespaces or your local development environment.
+This repository contains a Python script to generate `.ics` files for calendar events. Specifically, the script creates a series of bi-weekly meetings with a Google Meet link. There are (commented) instructions on how to easily change these default settings. It is designed to work seamlessly within GitHub Codespaces or your local development environment.
 
 ## Features
 
