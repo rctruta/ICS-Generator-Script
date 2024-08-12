@@ -59,7 +59,3 @@ This will ensure the script works correctly in a cloud environment.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the README as needed to fit your specific project details!
