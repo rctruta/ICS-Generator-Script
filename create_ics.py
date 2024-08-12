@@ -38,7 +38,7 @@ while current_event_date <= end_date:
     current_event_date += frequency
 
 # Write to .ics file
-with open('bi_weekly_meetings.ics', 'wb') as f:
+with open('meetings.ics', 'wb') as f:
     f.write(cal.to_ical())
 
-print("ICS file created successfully as 'bi_weekly_meetings.ics'")
+print("ICS file created successfully as 'meetings.ics'")
