@@ -8,11 +8,6 @@ This repository contains a Python script to generate `.ics` files for calendar e
 - Allows customization of the start date, meeting frequency, and Google Meet link.
 - Outputs a calendar file that can be imported into any calendar application.
 
-### Importing the `meetings.ics`.ics file in Google Calendar
-- Go to Google Calendar/Setting
-   - Choose (Left Pane) Import & Export
-   - Select file from your computer
-   - Don't forget to press `Import` 
 
 ## Requirements
 
