@@ -1,7 +1,3 @@
-Here's a sample README that you can use for your GitHub repository:
-
----
-
 # ICS Generator Script
 
 This repository contains a Python script to generate `.ics` files for calendar events. Specifically, the script creates a series of bi-weekly meetings with a Google Meet link. It is designed to work seamlessly within GitHub Codespaces or your local development environment.
